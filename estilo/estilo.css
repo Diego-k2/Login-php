@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    font-family: Helvetica;
+    font-weight: 550;
+}
+
+h1 {
+    padding: 15px 0 25px 0;
+}
+
+.espaco-campo {
+    padding: 15px;
+}
+
+.caixa {
+    width: 400px;
+    height: 230px;
+    padding: 0 0 15px 15px;
+    border-radius: 15px;
+    background: #fff;
+}
+
+.display-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.display-flex form {
+    margin: 0;
+}
+
+.alinha-centro {
+    text-align: center;
+}
+
+.altura {
+    height: 100vh;
+}
+
+.input-box {
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.botoes {
+    margin: 10px 10px 0 0;
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.enquantoLogin:hover{
+    background: #18D98C;
+}
+
+.equantoCadastro:hover{
+    background: #F05950;
+}
+
+.vermelho {
+    background: #F07E7B;
+}
+
+.verde-claro {
+    background: #8DD9AF;
+}
+
+.azul-claro {
+    background: #8DD8D9;
+}
+
+
